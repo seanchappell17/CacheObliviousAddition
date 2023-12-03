@@ -50,10 +50,4 @@ The primary execution workflow is contained in the `Program` class:
 2. Initialize the `CacheObliviousAddition` class and perform the addition.
 3. Console messages guide users through each step and display the time taken for each major operation.
 
-## Credits
-
-- Created by: Sean R Chappell
-- Created on: April 13th, 2023
-- Course: CSC 4101 - Extra Credit
-
 ---
